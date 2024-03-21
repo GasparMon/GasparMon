@@ -29,11 +29,19 @@ Full Stack Developer with experience in leadership and management of high-perfor
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GasparMon"><img src="https://github-readme-stats.vercel.app/api?username=GasparMon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="GasparMon's GitHub stats" /></a>
+<a href="http://www.github.com/GasparMon"><img src="https://github-readme-stats.vercel.app/api?username=GasparMon&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="GasparMon's GitHub stats" /></a>
 
-<a href="http://www.github.com/GasparMon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GasparMon&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GasparMon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GasparMon&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/GasparMon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasparMon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GasparMon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasparMon&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gasparmonz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
 
 ### Support Me
 
