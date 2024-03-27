@@ -7,7 +7,7 @@ Web Developer and Team Leader
 Full Stack Developer with experience in leadership and management of high-performance teams. I recently completed a training program, where I acquired skills in various technologies relevant to web development. My focus on team development has enhanced productivity and collaboration in dynamic environments. Passionate about continuous learning and committed to excellence in all endeavors.
 
 * 🌍  I'm based in Barcelona, Spain 🇪🇸
-* 🖥️  See my portfolio at [[https://portafolio-web-ierc.onrender.com/](http://https://portafolio-web-ierc.onrender.com/)](https://portafolio-web-ierc.onrender.com/)
+* 🖥️  See my portfolio at (https://portafolio-web-ierc.onrender.com/)
 * ✉️  You can contact me at [imoncivaez@gmail.com](mailto:imoncivaez@gmail.com)
 * 🚀  I'm currently working on [Tasker 📊](http://tasker-a9nf.onrender.com/)
 * 🧠  I'm learning Angular | GraphQL | Docker
